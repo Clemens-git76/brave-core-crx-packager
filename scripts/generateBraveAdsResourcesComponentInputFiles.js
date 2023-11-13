@@ -131,6 +131,8 @@ async function generateComponents (dataUrl) {
 
     const manifestFileName = 'resources.json'
     const manifestUrl = `${dataUrl}${component}/${manifestFileName}`
+    console.log("manifestFileName: ", manifetFileName);
+    console.log("manifestUrl: ", manifestUrl);
     await downloadComponentInputFiles(manifestFileName, manifestUrl, outDir)
   }
 }
