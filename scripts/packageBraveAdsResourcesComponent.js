@@ -176,11 +176,6 @@ const getComponentDataList = () => {
       id: 'jpapeieehcilkcfpljhopohigdhbnjck'
     },
     {
-      locale: 'iso_3166_1_ua',
-      key: 'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsm/U+Hc56/KfDfHDF4JtMRoS/xtoK3pZHJOeIa1eWdmdeIt1ziSbM4HfPz6iJ3rZbjPmHMs5FpNULeSnhFI4H5Wxz9ynHNKXQka8cHbxO94lRCJo0Dv/6sFsJEiXBY5D+dhzR8lpmC2sKrXrDrkabYaVS9NluuIAswUZXP6My1WSJI5FNaDxHwzoXNxmGLUp4R3yjGu8P0NGoG7jZxxr3oIf1j0zHKBAH7CHqAhBbKC3Dla03mc0rG4pGFws4z1L6C8CNHhjqT2IMpMAJNg/55XVEPVog5KB0LQRSeB3qmQBYExUPF+6XI5W9Zl6rfEd92t6127iL7BV8JcfxL9I7QIDAQAB',
-      id: 'enkpeojckjlmehbniegocfffdkanjhef'
-    },
-    {
       locale: 'iso_3166_1_ar',
       key: 'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuB/vwRku2vjJmhxlH3oOWaiOzXd+ogeVoB9mHWPokel3rP9ixdOyH84MfRK89A7EcAJsIoLSgpTpidw5BOCCUc2P8rj93U0EVnmA1jOyW/9XooQn4+sX+78Y2W6fwG3IBSDZubEv/iTEGOdMIkkeRkbJCAX69HeiNcIt0KXGVlkEFyNiJS76dyUM5rOetklLjwxRFTrhldk0z8QXMg0/RC4TK2loiLIh2ECAgRSl7NGo8kvGPkdDInhDQ99Siv1NAoOcd06z17/Jik+ix+T248BMXxzjCWRiuETsypD4CytxkSdZft0bei/JR2637L0ARhrFX+xcKeZQPBd9mH0NLQIDAQAB',
       id: 'enadnicbppimlbpilkeaogmmfpennphn'
@@ -209,11 +204,6 @@ const getComponentDataList = () => {
       locale: 'iso_3166_1_ph',
       key: 'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA00aD1u83pJSdeoA6Ih2zCtMcao1vPd5u53TmhKAjMlYlcxJAzrTFQiAb78XWB7Pb7Apq615KYJDBlvJq+IOVvMYZidZnGxnU0zL91GW9lDTSb44XJymXVPp7rUM80Rjm2O6gdej93jTEj1QznivFiC//z32DsnecMsD6PwTF+JSYpTONWntJjChktsHWjY9VXogd+g4FtpL4Iqhsqtw800y0boR5C96638dWmL08xGM3TSFlQFRzHw1zmHZLtVTc0U2GyNWjnVWpNyRAlCIsGcs+zDByBrAQu/AdjajbJvCf889YLyjdak9OTWx2cOOEGVh0hksj3BqACBKnGsJddwIDAQAB',
       id: 'ocmnmegmbhbfmdnjoppmlbhfcpmedacn'
-    },
-    {
-      locale: 'iso_3166_1_ru',
-      key: 'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5SqYfUYwJlvm3rQBnYxsscxmpsSPMf28MxByw/h9siGVAEGUIzG1LO7GDhYqeS7hFvOaPJQNDunPjkyotIN4SUg32aR/CYfW24/Pv+SNeoNjZQkaONvk/Yat3AHv9SMHrN2P658pv41eZaVSbMwV+Wf7UD6By/hRYaaed7NQUN54KSdE0ViIUD72Niz6rZPXt+poyoRgC10zckSqwc79EPi6UoFPgc388WP5txCfkgnvisoAllCa5skdjSI+LeZb6VVjjsG/OO37LfTbqEuW+EGZMMwCz7oMhxzx8uqxTCu4sF2m61d0OCCrW8BJQgiHC4xi6E2gS7lAxywy2P/5ywIDAQAB',
-      id: 'nfcegbjbohhjljcdogkmookngaiplbna'
     },
     {
       locale: 'iso_3166_1_th',
